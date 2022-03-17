@@ -81,10 +81,10 @@
 
  ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge&margin-w=5&margin-h=5&column=7&row=1)](Jeffin)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&margin-w=5&margin-h=5&column=7&row=1)](Jeffin)
 <!--<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffinsamgeorge7&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffinsamgeorge&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffinsamgeorge&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffinsamgeorg7&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffinsamgeorge7&theme=github_dark)
 
