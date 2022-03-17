@@ -52,7 +52,7 @@
 [reactplaylist]: https://youtu.be/DMiGfp70I_I
 <br/>
 
-<img align="left" alt="Wolf coder github status" src="https://github-readme-stats.vercel.app/api?username=WolfCoder-Jeff&theme=tokyonight&show_icons=true"/>
+<img align="left" alt="Wolf coder github status" src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge&theme=tokyonight&show_icons=true"/>
 
 <br/>  
 <br/>
@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-<img align="left" alt="Wolf coder language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfCoder-Jeff&theme=tokyonight&show_icons=true"/>
+<img align="left" alt="Wolf coder language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffinsamgeorge&theme=tokyonight&show_icons=true"/>
  
 <br/>
 <br/>
@@ -84,7 +84,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=WolfCoder-Jeff&margin-w=5&margin-h=5&column=7&row=1)](Jeffin)
 <!--<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WolfCoder-Jeff&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WolfCoder-Jeff&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WolfCoder-Jeff&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffinsamgeorge7&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffinsamgeorge&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffinsamgeorge&theme=github_dark)
 
