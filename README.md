@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-<img align="left" alt="Wolf coder language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffinsamgeorge&theme=tokyonight&show_icons=true"/>
+<img align="left" alt="Wolf coder language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffinsamgeorge7&theme=tokyonight&show_icons=true"/>
  
 <br/>
 <br/>
