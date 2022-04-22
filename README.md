@@ -1,90 +1,46 @@
-<h1 align="center"> Hi there, I'm Jeffin  [jeffinsamgeorge] 👋</h1>
+Hi 👋 My name is JEFFIN SAM GEORGE
+==================================
 
-## I'm a Single, Developer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and make memes
+Python Developer
+----------------
 
-### Connect with me:
+I am a self taught python developer
 
-[<img align="left" alt="WolfCoder-Jeff.com"  height="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="WolfCoder-Jeff | YouTube" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="WolfCoder-Jeff | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="WolfCoder-Jeff | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="WolfCoder-Jeff | Telegram" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="WolfCoder-Jeff | Instagram" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+* 🌍  I'm based in India
+* ✉️  You can contact me at [jeffinsamgeorge@protonmail.com](mailto:jeffinsamgeorge@protonmail.com)
+* 🧠  I'm learning Flutter
+* 🤝  I'm open to collaborating on ML
+* ⚡  I'm secretly Wolverine.. but don't tell any one
 
-<br/>
+<a href="https://www.github.com/jeffinsamgeorge7" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+</p>
 
 
-### System:
-[<img align="left" alt="Visual Studio Code" height="40" src="https://1.bp.blogspot.com/-U94NVGl_8-0/XzZ-h8z5L2I/AAAAAAAAJ8M/JYKlezQuYW0USS0TlrVDWJta4veHflJMACNcBGAsYHQ/s1500/HP-Pavilion%2BGaming%2B15-ec1052AX-laptop.jpg" />][laptop]
-</br>
-### Tools:
+### Socials
 
-[<img align="left" alt="Visual Studio Code" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" height="40" src="https://i0.wp.com/wptavern.com/wp-content/uploads/2016/07/stack-overflow.png?ssl=1" />][webdevplaylist]
-</br>
-### Languages:
+<p align="left"> <a href="https://www.facebook.com/jeffinsam.george" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/jeffinsamgeorge7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/giant_pegasus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jeffin-sam-george" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/jeffin-sam-george" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/JeffinSamGeorg1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[<img align="left" alt="HTML5" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Python" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][reactplaylist]
-[<img align="left" alt="Linux" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][reactplaylist]
-[<img align="left" alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="django" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][reactplaylist]
+### Badges
 
-<br/>
+<b>My GitHub Stats</b>
 
-[website]: https://jeffinsg.com
-[twitter]: https://twitter.com/JeffinSamGeorg1
-[youtube]: https://youtube.com/channel/UCjgDE4wXrMl1LMHtSQivwdA
-[instagram]: https://instagram.com/astro_sulthan
-[telegram]: https://t.me/Jeffin77
-[linkedin]: https://www.linkedin.com/in/jeffin-sam-george-40ba5b208
-[laptop]: https://www.hp.com/in-en/shop/hp-pavilion-family
-[webdevplaylist]: https://youtu.be/DMiGfp70I_I
-[jsplaylist]: https://youtu.be/DMiGfp70I_I
-[cssplaylist]: https://youtu.be/DMiGfp70I_I
-[reactplaylist]: https://youtu.be/DMiGfp70I_I
-<br/>
+<a href="http://www.github.com/jeffinsamgeorge7"><img src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="jeffinsamgeorge7's GitHub stats" /></a>
 
-<img align="left" alt="Wolf coder github status" src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge&theme=tokyonight&show_icons=true"/>
+<a href="http://www.github.com/jeffinsamgeorge7"><img src="https://activity-graph.herokuapp.com/graph?username=jeffinsamgeorge7&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<br/>  
-<br/>
-<br/>  
-<br/>
-<br/>  
-<br/>
-<br/>  
-<br/>
-<br/>
-<br/>
-
-<img align="left" alt="Wolf coder language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffinsamgeorge7&theme=tokyonight&show_icons=true"/>
- 
-<br/>
-<br/>
-<br/>  
-<br/>                                          
-<br/>  
-<br/>
-<br/>  
-<br/>
-<br/>  
-<br/>
-<br/>  
-
- ### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&margin-w=5&margin-h=5&column=7&row=1)](Jeffin)
-<!--<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffinsamgeorge7&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffinsamgeorg7&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffinsamgeorge7&theme=github_dark)
-
+<a href="https://github.com/jeffinsamgeorge7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffinsamgeorge7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
