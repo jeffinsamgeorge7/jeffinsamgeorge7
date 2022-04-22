@@ -27,7 +27,6 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.blackmagicdesign.com/" target="_blank" rel="noreferrer"><img src="https://www.bing.com/images/search?view=detailV2&ccid=6d9OC7pk&id=A841A000C9B68BB9DC33EB49187EB944EBDA88C0&thid=OIP.6d9OC7pksmWy7-JNLFFDlwHaHv&mediaurl=https%3A%2F%2Fimage.pngaaa.com%2F913%2F4322913-middle.png&exph=940&expw=900&q=davinci+resolve+logo&simid=608021727080895065&form=IRPRST&ck=A708127936431536ECCDDDF25643E533&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11" width="36" height="36" alt="Davinci" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
