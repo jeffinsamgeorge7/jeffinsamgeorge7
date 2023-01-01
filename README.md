@@ -15,8 +15,9 @@ I am a self taught python developer
 <a href="https://www.github.com/jeffinsamgeorge7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
-<a href="https://www.github.com/jeffinsamgeorge7" target="_blank" rel="noreferrer"><img
-src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7&style=for-the-badge&color=0891b2&labelColor=000000"" alt="jeffinsamgeorge7" /> </p>
 
 
 ### Skills
