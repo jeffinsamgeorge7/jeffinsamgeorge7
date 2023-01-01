@@ -46,5 +46,3 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 <a href="https://github.com/jeffinsamgeorge7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffinsamgeorge7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7&label=Profile%20views&color=0e75b6&style=flat" alt="jeffinsamgeorge7" /> </p>
-
-https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&theme=gitdimmed
