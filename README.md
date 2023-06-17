@@ -43,7 +43,10 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 ### Badges
 
 <b>My GitHub Stats</b>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffinsamgeorge7&theme=vue"/>
+</p>
+  
 <a href="http://www.github.com/jeffinsamgeorge7"><img src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="jeffinsamgeorge7's GitHub stats" /></a>
   
  
