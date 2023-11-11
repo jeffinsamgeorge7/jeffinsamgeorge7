@@ -1,6 +1,17 @@
 Hi 👋 My name is JEFFIN SAM GEORGE
 ==================================
+# Recent Activity
 
+[![starsBadge]][stargazers]
+[![forksBadge]][forks]
+[![issuesBadge]][issues]
+![sizeBadge]
+![codelinesBadge]
+[![codeOfConductBadge]][codeOfConduct]
+
+![uniqueUsersBadge]
+![totalrunsbadge]
+![successratebadge]
 Python Developer
 ----------------
 
