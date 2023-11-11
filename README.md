@@ -1,17 +1,6 @@
 Hi 👋 My name is JEFFIN SAM GEORGE
 ==================================
-# Recent Activity
 
-[![starsBadge]][stargazers]
-[![forksBadge]][forks]
-[![issuesBadge]][issues]
-![sizeBadge]
-![codelinesBadge]
-[![codeOfConductBadge]][codeOfConduct]
-
-![uniqueUsersBadge]
-![totalrunsbadge]
-![successratebadge]
 Python Developer
 ----------------
 
@@ -31,7 +20,7 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7&style=for-the-badge&color=0891b2&labelColor=000000"" alt="jeffinsamgeorge7" /> </p>
 
 
-### Skills
+### <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
