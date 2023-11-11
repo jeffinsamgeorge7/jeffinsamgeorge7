@@ -53,13 +53,13 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
   <div style="width: 48%; text-align: center;">
     <b>My GitHub Stats</b>
     <br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffinsamgeorge7&theme=github_dark" width="100%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffinsamgeorge7&theme=github_dark" width="50%" />
   </div>
 
   <div style="width: 48%; text-align: center;">
     <b>Streak</b>
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffinsamgeorge7&theme=github_dark" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffinsamgeorge7&theme=github_dark" width="50%" />
   </div>
 
   <div style="width: 48%; text-align: center;">
@@ -71,7 +71,7 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
   <div style="width: 48%; text-align: center;">
     <b>Productive time card</b>
     <br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffinsamgeorge7&theme=github_dark" width="100%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffinsamgeorge7&theme=github_dark" width="50%" />
   </div>
 </div>
 
