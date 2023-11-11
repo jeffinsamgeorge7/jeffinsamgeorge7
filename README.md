@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffinsamgeorge7&theme=transparent"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffinsamgeorge7&theme=github_dark"/>
 </p>
   
 <b>My GitHub Stats</b>  
