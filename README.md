@@ -52,8 +52,11 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 <p align="center">
 	<!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&theme=github_dark" /> -->
 	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffinsamgeorge7&theme=github_dark"/>
+	
+</p> 
+<p align="center">
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffinsamgeorge7&theme=github_dark" />
-</p>  
+</p> 
 <p>	
 <img width="48%" src=http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffinsamgeorge7&theme=github_dark&exclude=/>
 	</p>	
