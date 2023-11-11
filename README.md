@@ -48,19 +48,23 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffinsamgeorge7&theme=github_dark"/>
 </p>
   
-<b>My GitHub Stats</b>  
+ 
 <p align="center">
+	<b>My GitHub Stats</b> 
 	<!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&theme=github_dark" /> -->
 	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffinsamgeorge7&theme=github_dark"/>
 </p> 
 <p align="center">
+	<b>Streak</b> 
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffinsamgeorge7&theme=github_dark" />
 </p> 
-<p align="center">	
+<p align="center">
+	<b>Languages</b> 
 <img width="48%" src=http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffinsamgeorge7&theme=github_dark&exclude=/>
 </p>	
-<b>Productive time card</b>
-<p align="center">	
+
+<p align="center">
+	<b>Productive time card</b>
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffinsamgeorge7&theme=github_dark"/>
 </p>
   <!--
