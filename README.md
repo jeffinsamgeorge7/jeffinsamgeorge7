@@ -49,24 +49,32 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 </p>
   
  
-<p align="center">
-	<b>My GitHub Stats</b> 
-	<!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&theme=github_dark" /> -->
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffinsamgeorge7&theme=github_dark"/>
-</p> 
-<p align="center">
-	<b>Streak</b> 
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffinsamgeorge7&theme=github_dark" />
-</p> 
-<p align="center">
-	<b>Languages</b> 
-<img width="48%" src=http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffinsamgeorge7&theme=github_dark&exclude=/>
-</p>	
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 48%; text-align: center;">
+    <b>My GitHub Stats</b>
+    <br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffinsamgeorge7&theme=github_dark" width="100%" />
+  </div>
 
-<p align="center">
-	<b>Productive time card</b>
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffinsamgeorge7&theme=github_dark"/>
-</p>
+  <div style="width: 48%; text-align: center;">
+    <b>Streak</b>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffinsamgeorge7&theme=github_dark" width="100%" />
+  </div>
+
+  <div style="width: 48%; text-align: center;">
+    <b>Languages</b>
+    <br>
+    <img src=http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffinsamgeorge7&theme=github_dark&exclude=/>
+  </div>
+
+  <div style="width: 48%; text-align: center;">
+    <b>Productive time card</b>
+    <br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffinsamgeorge7&theme=github_dark" width="100%" />
+  </div>
+</div>
+
   <!--
 <a href="http://www.github.com/jeffinsamgeorge7"><img src="https://github-readme-stats.vercel.app/api?                username=jeffinsamgeorge7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="jeffinsamgeorge7's GitHub stats" /></a>
 	
