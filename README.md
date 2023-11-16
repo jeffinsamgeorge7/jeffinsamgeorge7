@@ -7,7 +7,7 @@ Python Developer
 I am a self taught python developer
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [jeffinsamgeorge@protonmail.com](mailto:jeffinsamgeorge@protonmail.com)
+* ✉️  You can contact me at <a> href="[jeffinsamgeorge@protonmail.com](mailto:jeffinsamgeorge@protonmail.com)">Mail</a>
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on ML
 * ⚡  I'm secretly Wolverine.. but don't tell any one
