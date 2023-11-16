@@ -52,7 +52,7 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="width: 48%; text-align: center;">
     
-   <p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffinsamgeorge7&theme=github_dark" width="50%" /></p><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffinsamgeorge7&theme=github_dark" width="50%" /></p>
+   <p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffinsamgeorge7&theme=github_dark" width="50%" /></p>
   </div>
 
   <div style="width: 48%; text-align: center;">
