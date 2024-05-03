@@ -1,7 +1,7 @@
 Hi 👋 My name is JEFFIN SAM GEORGE
 ==================================
 
-Python Developer
+React/Django Developer
 ----------------
 
 I am a self taught python developer
