@@ -90,5 +90,8 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&theme=algolia" alt="jeffinsamgeorge7" /></a> </p>
+<p align="left"> 
+	https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&column=3&margin-w=15&margin-h=15
+	<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&theme=algolia" alt="jeffinsamgeorge7" /></a>  -->
+ </p>
 
