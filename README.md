@@ -47,10 +47,8 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 <p style="width: 48%; text-align: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffinsamgeorge7&theme=github_dark"/>
 </p>
-  
- 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="width: 48%; text-align: center;">
+  <div style="display:flex,flex-direction:row">
+   <div style="width: 48%; text-align: center;">
     
    <p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffinsamgeorge7&theme=github_dark" width="50%" /></p>
   </div>
@@ -60,6 +58,11 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffinsamgeorge7&theme=github_dark" width="50%" />
   </div>
+	  
+  </div>
+ 
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+ 
 
   <div style="width: 48%; text-align: center;">
     <b>Languages</b>
@@ -73,7 +76,9 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffinsamgeorge7&theme=github_dark" width="50%" />
   </div>
 </div>
-
+<p align="left"> 
+	<img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&column=3&margin-w=15&margin-h=15" alt="jeffinsamgeorge7" />
+ </p>
   <!--
 <a href="http://www.github.com/jeffinsamgeorge7"><img src="https://github-readme-stats.vercel.app/api?                username=jeffinsamgeorge7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="jeffinsamgeorge7's GitHub stats" /></a>
 	
@@ -90,9 +95,5 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 
 
 
-<p align="left"> 
-	<img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&column=3&margin-w=15&margin-h=15" alt="jeffinsamgeorge7" />
-	
-	<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&theme=algolia" alt="jeffinsamgeorge7" /></a>  -->
- </p>
+
 
