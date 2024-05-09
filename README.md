@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 <p style="width: 48%; text-align: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffinsamgeorge7&theme=github_dark"/>
 </p>
-  <div style="display:flex,flex-direction:row">
+  <div style="display:flex,flex-direction:row,widt:100%" >
    <div style="width: 48%; text-align: center;">
     
    <p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffinsamgeorge7&theme=github_dark" width="50%" /></p>
