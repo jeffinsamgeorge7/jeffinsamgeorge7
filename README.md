@@ -1,6 +1,4 @@
 
-<a href="https://www.github.com/jeffinsamgeorge7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 
 ### <div align="center">I'm Jeffin, a full-time full-stack developer 👨‍💻 </div>  
@@ -19,9 +17,17 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
   
 
 <br/>  
+<div align="center">
+  <a href="https://www.github.com/jeffinsamgeorge7" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&column=3&margin-w=15&margin-h=15" alt="jeffinsamgeorge7" />
+
+</div>
 
 
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 
@@ -130,6 +136,7 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7&&style=flat-square" align="center" />
+   <br/>
 </div>  
 
 <div align="center">
@@ -139,6 +146,7 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=truer=false" height="200" alt="stats graph"  />
+  <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
