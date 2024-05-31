@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7logo=github&&style=for-the-badge&color=0891b2&labelColor=000000"" alt="jeffinsamgeorge7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000"" alt="jeffinsamgeorge7" /> </p>
 
 
 </div>
