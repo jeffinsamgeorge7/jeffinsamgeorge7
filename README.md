@@ -104,19 +104,20 @@
 
 ## Github Stats  
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220"  alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=truer=false" height="200" alt="stats graph"  />
-  
-</p>
-
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&column=3&margin-w=15&margin-h=15" alt="jeffinsamgeorge7"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&margin-w=15&margin-h=15" alt="jeffinsamgeorge7"  />
   <p></p>
 
 
 </div>  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220"  alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=truer=false" height="200" alt="stats graph"  />
+  </br>
+</p>
+
+
 
 
   
