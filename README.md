@@ -123,6 +123,8 @@
   
 
 <div align="center">
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jeffinsamgeorge7" alt="GitHub Streak" /></a>
+<p>hello</p>
 
   <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=true" height="200" alt="languages graph"  />
