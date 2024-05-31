@@ -18,10 +18,10 @@
 
 <br/>  
 <div align="center">
-  <a href="https://www.github.com/jeffinsamgeorge7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+ <img src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&column=3&margin-w=15&margin-h=15" alt="jeffinsamgeorge7" />
+<img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7&&style=flat-square" align="center" />
+
 
 </div>
 
@@ -135,7 +135,9 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7&&style=flat-square" align="center" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&column=3&margin-w=15&margin-h=15" alt="jeffinsamgeorge7" />
+
    <br/>
 </div>  
 
