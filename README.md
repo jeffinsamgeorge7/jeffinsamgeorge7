@@ -1,5 +1,7 @@
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### <div align="center">I'm Jeffin, a full-time full-stack developer 👨‍💻 </div>  
   
@@ -26,7 +28,7 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000"" alt="jeffinsamgeorge7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7&style=for-the-badge&color=0891b2&labelColor=000000"" alt="jeffinsamgeorge7" /> </p>
 
 
 </div>
@@ -142,13 +144,15 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&column=3&margin-w=15&margin-h=15" alt="jeffinsamgeorge7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&column=3&margin-w=15&margin-h=15" alt="jeffinsamgeorge7"  height="220" width="350"/>
+  <p></p>
 
    <br/>
 </div>  
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <p></p>
 </div>
   
 
