@@ -104,6 +104,11 @@
 
 ## Github Stats  
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220"  alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=truer=false" height="200" alt="stats graph"  />
+  
+</div>
 
 <div align="center">
 
@@ -113,14 +118,11 @@
 
 </div>  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="350" alt="streak graph"  />
-  <p></p>
-</div>
+
   
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=truer=false" height="200" alt="stats graph"  />
+
   <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=true" height="200" alt="languages graph"  />
 </div>
