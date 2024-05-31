@@ -106,35 +106,24 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&margin-w=15&margin-h=15" alt="jeffinsamgeorge7"  />
-  <p></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=jeffinsamgeorge7&column=5&margin-w=15&margin-h=15" alt="jeffinsamgeorge7"  />
+ 
 
 
 </div>  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220"  alt="streak graph"  />
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=truer=false" height="200" alt="stats graph"  />
   </br>
-</p>
-
-
+<div>
 
 
   
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jeffinsamgeorge7" alt="GitHub Streak" /></a>
-<p>hello</p>
 
-  <p></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
