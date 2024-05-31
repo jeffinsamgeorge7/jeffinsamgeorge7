@@ -20,7 +20,7 @@
 <div align="center">
  <img src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" />
 
-<img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=jeffinsamgeorge7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000"  />
 
 
 </div>
