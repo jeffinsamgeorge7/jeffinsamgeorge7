@@ -85,13 +85,14 @@
 <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="30" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" /></a>  
 <a href="https://opencv.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="30" /></a>  
-<a href="https://keras.io/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="30" /></a>  
+
+   
 <a href="https://pytorch.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="30" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="30" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" /></a>  
 <a href="https://www.java.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" /></a>  
-<a href="https://github.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>  
+
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" /></a>  
 
   
