@@ -126,15 +126,16 @@ src="https://img.shields.io/github/followers/jeffinsamgeorge7?logo=github&style=
 
 
 ## Github Stats  
-<div display="flex" flexDirection="row">
-      <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
       <br/>  
 
       <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffinsamgeorge7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<img src="https://raw.githubusercontent.com/jeffinsamgeorge7/jeffinsamgeorge7/output/snake.svg" alt="Snake animation" />
 
-</div>
+###
 
 
 
