@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Jeffin Sam George — a pragmatic software engineer with a CTO mindset, passionate about building secure, scalable, and maintainable systems. I specialize in containerized backend architectures, modular Flutter apps, and automated deployment workflows that bridge technical rigor with real-world usability.<br>🔧 Whether it's scripting away manual tasks, designing pixel-perfect UIs, or navigating banking compliance, I thrive on solving problems that matter. My work blends offline-first resilience, regulatory awareness, and future-proof design—all driven by a deep commitment to clarity and client-focused solutions.<br>
+Hi, I'm Jeffin Sam George — a Full-Stack Developer and Open-Source Contributor passionate about building scalable, maintainable web applications and AI-powered tools.
+🔧 I specialize in full-stack development using React.js, Node.js, Django, and Python, with hands-on experience building offline POS systems, responsive client websites, and AI coding agents. My work focuses on clean code, practical solutions, and open-source collaboration.
 
 
 ## 🌐 Socials:
